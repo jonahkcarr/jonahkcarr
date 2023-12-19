@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonahkcarr
-- 👀 I’m interested in electrical engineering concepts, as well as machine learing and signal processing.
+- 👀 I’m interested in any electrical engineering concepts and more specifically machine learning and signal processing.
 - 🌱 I’m currently learning c++ and matlab. 
 - 💞️ I’m looking to collaborate on any of the projects I you can find on my public repositories.
 - 📫 Send me a message through github if you have questions!
